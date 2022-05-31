@@ -1,0 +1,41 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url("surise\ gif.gif");
+}
+
+h1, h2, form, li{
+  text-align: center;
+  
+}
+
+li{
+list-style: none;
+/* padding-bottom: 10%; */
+}
+
+section{
+  background: lightskyblue;
+  height: 500px;
+}
+
+h1{
+  margin: 10%;
+  font-size: 4rem;
+}
+
+form{
+  padding-bottom: 2%;
+}
+
+input{
+  padding: .5%;
+}
+
+button{
+  padding: .5%;
+  background: blue;
+  color: white;
+}
